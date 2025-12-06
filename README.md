@@ -44,7 +44,7 @@ If you want to search & filters the complete database of [.ICU one word domains]
 | abiding.icu    | available | 106      | 5%     | 7      |           |         |         |
 | abient.icu     | available | 54       | 1%     | 6      |           |         |         |
 | ability.icu    | available | 92       | 18%    | 7      |           |         |         |
-| abit.icu       | available | 66       | 16%    | 5      |           |         |         |
+| abit.icu       | premium   | 66       | 16%    | 5      |           |         |         |
 | abject.icu     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.icu     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.icu  | available | 78       | 1%     | 9      |           |         |         |
