@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .icu one-word domains from Unique 
 
 **Public extract:** 8,178 rows · **Live catalog:** 8,178 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/icu`  
 **Best for:** founders, investors, studios
 
@@ -78,10 +78,10 @@ print(df.head())
 | good.icu       | premium   | $539.06   | $718.75       | 82             | 55     | 4      | name.com                                |
 | adaptive.icu   | available | $20.98    | —             | 76             | 31     | 8      | namecheap                               |
 | live.icu       | resell    | —         | —             | 108            | 56     | 4      | Porkbun, LLC                            |
-| alpha.icu      | premium   | $539.06   | $718.75       | 90             | 54     | 5      | name.com                                |
-| split.icu      | available | $20.98    | —             | 46             | 29     | 5      | namecheap                               |
-| love.icu       | resell    | —         | —             | 86             | 52     | 4      | Dynadot LLC                             |
 | zero.icu       | premium   | $539.06   | $718.75       | 112            | 53     | 4      | name.com                                |
+| split.icu      | available | $20.98    | —             | 46             | 29     | 5      | namecheap                               |
+| love.icu       | resell    | —         | —             | 86             | 51     | 4      | Dynadot LLC                             |
+| alpha.icu      | premium   | $539.06   | $718.75       | 90             | 53     | 5      | name.com                                |
 | woven.icu      | available | $1.99     | —             | 76             | 28     | 5      | name.com                                |
 | tech.icu       | resell    | —         | —             | 86             | 50     | 4      | Spaceship, Inc.                         |
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ICU One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ICU One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
