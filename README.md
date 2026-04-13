@@ -79,10 +79,10 @@ print(df.head())
 | adaptive.icu   | available | $20.98    | —             | 76             | 31     | 8      | namecheap                               |
 | live.icu       | resell    | —         | —             | 108            | 56     | 4      | Porkbun, LLC                            |
 | zero.icu       | premium   | $539.06   | $718.75       | 112            | 53     | 4      | name.com                                |
-| split.icu      | available | $20.98    | —             | 46             | 29     | 5      | namecheap                               |
+| woven.icu      | available | $1.99     | —             | 76             | 28     | 5      | name.com                                |
 | love.icu       | resell    | —         | —             | 86             | 51     | 4      | Dynadot LLC                             |
 | alpha.icu      | premium   | $539.06   | $718.75       | 90             | 53     | 5      | name.com                                |
-| woven.icu      | available | $1.99     | —             | 76             | 28     | 5      | name.com                                |
+| split.icu      | available | $20.98    | —             | 46             | 28     | 5      | namecheap                               |
 | tech.icu       | resell    | —         | —             | 86             | 50     | 4      | Spaceship, Inc.                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
