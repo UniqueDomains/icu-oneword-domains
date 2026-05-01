@@ -1,10 +1,10 @@
-# Available .ICU One-Word Domains (10,436)
+# Available .ICU One-Word Domains (10,952)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C436%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C952%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .icu one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,436 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,952 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,436 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,952 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/icu`  
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
 | rewards.icu     | available | $1.99     | —             | 62             | 30     | 7      | name.com                      |
-| Tools.icu       | resell    | —         | —             | 56             | 40     | 5      | united-domains GmbH           |
-| CocaCola.icu    | premium   | $402.50   | $805          | 92             | 82     | 9      | namecheap                     |
-| perspective.icu | available | $1.99     | —             | 78             | 28     | 11     | name.com                      |
-| storyteller.icu | resell    | —         | —             | 82             | 25     | 11     | Dynadot LLC                   |
+| hotels.icu      | resell    | —         | —             | 64             | 82     | 6      | Dynadot LLC                   |
 | winners.icu     | premium   | $34.22    | $69.02        | 60             | 81     | 7      | namesilo                      |
-| backyard.icu    | available | $1.99     | —             | 80             | 27     | 9      | name.com                      |
-| webshop.icu     | resell    | —         | —             | 76             | 22     | 8      | Dynadot LLC                   |
+| perspective.icu | available | $1.99     | —             | 78             | 28     | 11     | name.com                      |
+| Tools.icu       | resell    | —         | —             | 56             | 40     | 5      | united-domains GmbH           |
 | Chanel.icu      | premium   | $402.50   | $805          | 80             | 77     | 6      | namecheap                     |
 | trades.icu      | available | $1.99     | —             | 71             | 26     | 6      | name.com                      |
-| hosts.icu       | resell    | —         | —             | 52             | 18     | 5      | NameSilo, LLC                 |
+| storyteller.icu | resell    | —         | —             | 82             | 25     | 11     | Dynadot LLC                   |
 | farmers.icu     | premium   | $402.50   | $805          | 54             | 59     | 7      | namecheap                     |
 | inhouse.icu     | available | $1.99     | —             | 70             | 23     | 8      | name.com                      |
-| welfare.icu     | resell    | —         | —             | 78             | 17     | 7      | Spaceship, Inc.               |
+| webshop.icu     | resell    | —         | —             | 76             | 22     | 8      | Dynadot LLC                   |
 | events.icu      | premium   | $402.50   | $805          | 68             | 37     | 6      | namecheap                     |
 | CapeCod.icu     | available | $20.98    | —             | 78             | 22     | 8      | namecheap                     |
-| wines.icu       | resell    | —         | —             | 63             | 16     | 5      | Dynadot LLC                   |
+| hosts.icu       | resell    | —         | —             | 52             | 18     | 5      | NameSilo, LLC                 |
 | tokens.icu      | premium   | $3,552.32 | —             | 51             | 36     | 6      | West263 International Limited |
 | children.icu    | available | $1.99     | —             | 68             | 21     | 8      | name.com                      |
 | could.icu       | resell    | —         | —             | 78             | 8      | 5      | Go Daddy, LLC                 |
+| homes.icu       | premium   | $124.60   | $249.20       | 86             | 34     | 5      | namecheap                     |
+| likes.icu       | available | $1.99     | —             | 52             | 20     | 5      | name.com                      |
+| clipart.icu     | resell    | —         | —             | 74             | 8      | 8      | IONOS SE                      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 10,436 live domains                              |
+| 1,000-row public sample | 10,952 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ICU One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ICU One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
