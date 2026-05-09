@@ -22,6 +22,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 01cc50bb-1825-4792-be7f-3d2fcc9b2801,systems.icu,premium,9.8,19.6,46,27,7,namecheap,,
 01f9549f-fa61-42e1-a017-20e3c16a98e0,decideupon.icu,available,1.99,,76,0,11,name.com,,
 021d79e3-9747-486a-9c49-dcfe59cbc64c,midlife.icu,available,1.99,,74,11,8,name.com,,
+023d51a2-44bc-4961-b8bf-5ab3098252cb,receipt.icu,premium,,,76,19,7,,,
 02692a80-e826-44ef-9f43-d4b3733a4361,prizes.icu,available,1.99,,60,11,6,name.com,,
 0269cc97-9973-4792-bbad-7af453eb63a6,masterofceremonies.icu,available,1.99,,60,2,20,name.com,,
 0269d7cf-5539-43ed-af1e-37bc07de328a,cometogether.icu,available,1.99,,70,10,13,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 605d3ca3-70b2-4bab-8526-3838deaa379b,establishments.icu,available,1.99,,42,3,14,name.com,,
 607236ac-dbcf-4217-a5f3-5a7a680552ab,worldsapart.icu,available,1.99,,64,3,12,name.com,,
 60970478-59de-4699-8e3f-2e519ac4d208,lookingforwardto.icu,available,1.99,,54,2,18,name.com,,
-60c29c60-89ce-4ff6-b92e-734f4aa88f0e,GodtheHolyGhost.icu,available,20.98,,58,1,18,namecheap,,
