@@ -886,6 +886,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 54cfa973-49d7-43a3-b85b-9cab77f2cde6,gomissing.icu,available,1.99,,70,1,10,name.com,,
 5509fc26-d300-4faf-918f-dd08b06be357,pomegranates.icu,available,1.99,,60,4,12,name.com,,
 55105c39-179d-437a-adb4-ba95460b5eb5,dogsbark.icu,available,1.99,,76,1,9,name.com,,
+55163f4c-b7e4-492a-8841-59453ee3b93a,extraordinary.icu,premium,,,74,22,13,,,
 55206ba0-0836-4ce0-99c0-d1cbbdc163e0,comeknocking.icu,available,1.99,,66,1,13,name.com,,
 553b2613-4fce-4fed-ad6e-c8b777a72d0b,cometotermswith.icu,available,1.99,,66,1,18,name.com,,
 5548a585-675d-420a-b523-57f0f34d1b73,sqin.icu,premium,9.8,19.6,72,3,5,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6049dcb7-a638-4fdb-8183-23905b93ca47,concertgoers.icu,available,1.99,,59,1,12,name.com,,
 605d3ca3-70b2-4bab-8526-3838deaa379b,establishments.icu,available,1.99,,42,3,14,name.com,,
 607236ac-dbcf-4217-a5f3-5a7a680552ab,worldsapart.icu,available,1.99,,64,3,12,name.com,,
-60970478-59de-4699-8e3f-2e519ac4d208,lookingforwardto.icu,available,1.99,,54,2,18,name.com,,
