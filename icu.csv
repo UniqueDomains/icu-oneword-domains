@@ -324,6 +324,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1f8e5800-9f7a-4439-86a2-2af540b777c9,haveto.icu,available,1.99,,78,3,7,name.com,,
 1fb77407-aa37-4b85-8ab3-f32f2e3cec59,takeanap.icu,available,1.99,,73,2,10,name.com,,
 1fd2f279-dede-4b73-879d-aacef226c069,eachtotheirown.icu,available,1.99,,46,1,17,name.com,,
+204ee206-d789-4962-b6cc-069380442371,presentation.icu,premium,,,76,19,12,,,
 205c1e8d-3bc4-44d3-9256-74848f26d60a,dataflows.icu,available,1.99,,52,5,10,name.com,,
 20992b89-0982-4e4f-8bb2-d650b40df1fe,keepupwith.icu,available,1.99,,76,2,12,name.com,,
 20d91c99-636e-4df8-885f-88d5180dff3b,leaveoff.icu,available,1.99,,72,1,9,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5fdec435-0b8a-428a-a923-3bbdd7c95a2a,desktoptoy.icu,available,1.99,,50,1,11,name.com,,
 6049dcb7-a638-4fdb-8183-23905b93ca47,concertgoers.icu,available,1.99,,59,1,12,name.com,,
 605d3ca3-70b2-4bab-8526-3838deaa379b,establishments.icu,available,1.99,,42,3,14,name.com,,
-607236ac-dbcf-4217-a5f3-5a7a680552ab,worldsapart.icu,available,1.99,,64,3,12,name.com,,
