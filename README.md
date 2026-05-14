@@ -67,7 +67,7 @@ print(df.head())
 | rewards.icu     | available | $1.99     | —             | 62             | 30     | 7      | name.com                      |
 | hotels.icu      | resell    | —         | —             | 64             | 82     | 6      | Dynadot LLC                   |
 | winners.icu     | premium   | $34.22    | $69.02        | 60             | 81     | 7      | namesilo                      |
-| perspective.icu | available | $1.99     | —             | 78             | 28     | 11     | name.com                      |
+| perspective.icu | available | $1.99     | —             | 78             | 27     | 11     | name.com                      |
 | Tools.icu       | resell    | —         | —             | 56             | 40     | 5      | united-domains GmbH           |
 | Chanel.icu      | premium   | $402.50   | $805          | 80             | 77     | 6      | namecheap                     |
 | trades.icu      | available | $1.99     | —             | 71             | 26     | 6      | name.com                      |
