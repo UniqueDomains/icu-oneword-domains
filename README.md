@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .icu one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,968 domains · **Median ask:** $46.04 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/icu`  
 **Best for:** founders, investors, studios
 
@@ -73,16 +73,16 @@ print(df.head())
 | trades.icu      | available | $1.99     | —             | 71             | 26     | 6      | name.com                      |
 | storyteller.icu | resell    | —         | —             | 82             | 25     | 11     | Dynadot LLC                   |
 | farmers.icu     | premium   | $402.50   | $805          | 54             | 59     | 7      | namecheap                     |
-| inhouse.icu     | available | $1.99     | —             | 70             | 23     | 8      | name.com                      |
-| webshop.icu     | resell    | —         | —             | 76             | 22     | 8      | Dynadot LLC                   |
-| events.icu      | premium   | $402.50   | $805          | 68             | 37     | 6      | namecheap                     |
 | CapeCod.icu     | available | $20.98    | —             | 78             | 22     | 8      | namecheap                     |
+| webshop.icu     | resell    | —         | —             | 76             | 21     | 8      | Dynadot LLC                   |
+| events.icu      | premium   | $402.50   | $805          | 68             | 37     | 6      | namecheap                     |
+| communities.icu | available | $1.99     | —             | 68             | 19     | 11     | name.com                      |
 | hosts.icu       | resell    | —         | —             | 52             | 18     | 5      | NameSilo, LLC                 |
 | tokens.icu      | premium   | $3,552.32 | —             | 51             | 36     | 6      | West263 International Limited |
-| communities.icu | available | $1.99     | —             | 68             | 19     | 11     | name.com                      |
+| perks.icu       | available | $1.99     | —             | 62             | 19     | 5      | name.com                      |
 | could.icu       | resell    | —         | —             | 78             | 8      | 5      | Go Daddy, LLC                 |
 | homes.icu       | premium   | $124.60   | $249.20       | 86             | 34     | 5      | namecheap                     |
-| perks.icu       | available | $1.99     | —             | 62             | 19     | 5      | name.com                      |
+| outofoffice.icu | available | $1.99     | —             | 61             | 19     | 13     | name.com                      |
 | clipart.icu     | resell    | —         | —             | 74             | 8      | 8      | IONOS SE                      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ICU One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ICU One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
