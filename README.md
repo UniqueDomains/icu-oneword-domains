@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .icu one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **10,968 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,968 domains · **Median ask:** $46.04 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,968 domains · **Median ask:** $41.60 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/icu`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/icu`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .ICU one-word domain c
 
 ### Files
 
-- `icu.csv` — public CSV extract (1,000 rows)
-- `icu.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `icu.csv`, public CSV extract (1,000 rows)
+- `icu.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
-| rewards.icu     | available | $1.99     | —             | 62             | 30     | 7      | name.com                      |
-| hotels.icu      | resell    | —         | —             | 64             | 82     | 6      | Dynadot LLC                   |
-| winners.icu     | premium   | $34.22    | $69.02        | 60             | 81     | 7      | namesilo                      |
-| perspective.icu | available | $1.99     | —             | 78             | 27     | 11     | name.com                      |
-| Tools.icu       | resell    | —         | —             | 56             | 40     | 5      | united-domains GmbH           |
-| Chanel.icu      | premium   | $402.50   | $805          | 80             | 77     | 6      | namecheap                     |
-| trades.icu      | available | $1.99     | —             | 71             | 26     | 6      | name.com                      |
-| storyteller.icu | resell    | —         | —             | 82             | 25     | 11     | Dynadot LLC                   |
-| farmers.icu     | premium   | $402.50   | $805          | 54             | 59     | 7      | namecheap                     |
-| CapeCod.icu     | available | $20.98    | —             | 78             | 22     | 8      | namecheap                     |
-| webshop.icu     | resell    | —         | —             | 76             | 21     | 8      | Dynadot LLC                   |
-| events.icu      | premium   | $402.50   | $805          | 68             | 37     | 6      | namecheap                     |
-| communities.icu | available | $1.99     | —             | 68             | 19     | 11     | name.com                      |
-| hosts.icu       | resell    | —         | —             | 52             | 18     | 5      | NameSilo, LLC                 |
-| tokens.icu      | premium   | $3,552.32 | —             | 51             | 36     | 6      | West263 International Limited |
-| perks.icu       | available | $1.99     | —             | 62             | 19     | 5      | name.com                      |
-| could.icu       | resell    | —         | —             | 78             | 8      | 5      | Go Daddy, LLC                 |
-| homes.icu       | premium   | $124.60   | $249.20       | 86             | 34     | 5      | namecheap                     |
-| outofoffice.icu | available | $1.99     | —             | 61             | 19     | 13     | name.com                      |
-| clipart.icu     | resell    | —         | —             | 74             | 8      | 8      | IONOS SE                      |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| aging.icu | available | $1.99     | $24.99        | high           | low    | 5      | name.com                                     |
+| car.icu   | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
+| ate.icu   | premium   | $368      | $736          | high           | low    | 3      | namesilo                                     |
+| aloud.icu | available | $1.99     | —             | high           | low    | 5      | name.com                                     |
+| cut.icu   | resell    | —         | —             | high           | low    | 3      | Dynadot LLC                                  |
+| egg.icu   | premium   | $106.80   | $227.84       | high           | low    | 3      | namesilo                                     |
+| apart.icu | available | $1.99     | —             | high           | low    | 5      | name.com                                     |
+| fin.icu   | resell    | —         | —             | medium         | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
+| fee.icu   | premium   | $368      | $736          | high           | low    | 3      | namesilo                                     |
+| badly.icu | available | $1.99     | —             | medium         | low    | 5      | name.com                                     |
+| xxx.icu   | resell    | —         | —             | medium         | low    | 3      | 1API GmbH                                    |
+| few.icu   | premium   | $34.22    | $69.02        | high           | low    | 3      | namesilo                                     |
+| bound.icu | available | $1.99     | —             | medium         | low    | 5      | name.com                                     |
+| live.icu  | resell    | —         | —             | high           | medium | 4      | Porkbun, LLC                                 |
+| fig.icu   | premium   | $34.22    | $69.02        | medium         | low    | 3      | namesilo                                     |
+| bowls.icu | available | $1.99     | —             | medium         | low    | 5      | name.com                                     |
+| guest.icu | resell    | —         | —             | high           | low    | 5      | Dynadot LLC                                  |
+| him.icu   | premium   | $106.80   | $227.84       | high           | low    | 3      | namesilo                                     |
+| brass.icu | available | $1.99     | —             | high           | low    | 5      | name.com                                     |
+| gusto.icu | resell    | —         | —             | high           | low    | 5      | Dynadot LLC                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .icu domains. The names range from broad dictionary words such as similar.icu, thing.icu, meaning.icu, and facts.icu to more functional terms like spreadsheet.icu and transfer.icu. For founders, the main question is whether the word is memorable, easy to say, and strong enough to carry a brand on a non-mainstream extension. For investors, the focus is usually buy-in discipline and realistic resale expectations. With a median ask of $46.04, price is accessible, so the harder part is choosing words with clear use cases, clean spelling, and low trademark risk.
+This list of one-word .ICU domain names covers 10,968 options across short, compound, and phrase-style words such as storyteller, pictures, dogsit, and coffeeglass. With a median asking price near $42, these domains sit in an affordable range for both quick acquisitions and portfolio building. Because .ICU carries less brand history than legacy TLDs, checking renewal cost and memorability matters before committing to any single name.
 
-- One-word .icu domains only
-- 10,958 domains in this selection
-- Median ask: $46.04
-- Favor clear words with broad commercial use
+- 10,968 one-word .ICU domains available for review
+- Median asking price near $42 across this selection
+- Mix of short, compound, and phrase-style brand names
+- Updated daily to reflect current pricing and availability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ICU One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ICU One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
