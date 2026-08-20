@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .icu one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 15,719 domains · **Median ask:** $37.47 · **High-demand under $2,500:** 52
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/icu`
 **Best for:** founders, investors, studios
 
@@ -65,8 +65,6 @@ print(df.head())
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
 | christmas.icu | premium   | $106.80   | $227.84       | high           | low    | 9      | namesilo                                     |
-| room.icu      | premium   | $106.80   | $227.84       | high           | low    | 4      | namesilo                                     |
-| period.icu    | available | $1.99     | —             | high           | low    | 6      | name.com                                     |
 | aging.icu     | available | $1.99     | $24.99        | high           | low    | 5      | name.com                                     |
 | car.icu       | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
 | ate.icu       | premium   | $368      | $736          | high           | low    | 3      | namesilo                                     |
@@ -84,6 +82,8 @@ print(df.head())
 | fig.icu       | premium   | $34.22    | $69.02        | medium         | low    | 3      | namesilo                                     |
 | attic.icu     | available | $2.79     | $26.98        | low            | low    | 5      | namecheap                                    |
 | guest.icu     | resell    | —         | —             | high           | low    | 5      | Dynadot LLC                                  |
+| him.icu       | premium   | $106.80   | $227.84       | high           | low    | 3      | namesilo                                     |
+| badly.icu     | available | $1.99     | —             | medium         | low    | 5      | name.com                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ICU One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ICU One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
