@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .icu one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,521 domains · **Median ask:** $35.50 · **High-demand under $2,500:** 60
 
-**Last updated:** 2026-09-14
+**Last updated:** 2026-09-15
 **Canonical page:** `https://unique.domains/domains/tld/icu`
 **Best for:** founders, investors, studios
 
@@ -65,11 +65,14 @@ print(df.head())
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
 | christmas.icu | premium   | $106.80   | $227.84       | high           | low    | 9      | namesilo                                     |
+| period.icu    | available | $1.99     | —             | high           | low    | 6      | name.com                                     |
+| away.icu      | premium   | $106.80   | $227.84       | high           | low    | 4      | namesilo                                     |
+| cut.icu       | resell    | —         | —             | high           | low    | 3      | Dynadot LLC                                  |
+| fancy.icu     | premium   | $34.22    | $69.02        | high           | low    | 5      | namesilo                                     |
 | aging.icu     | available | $1.99     | $24.99        | high           | low    | 5      | name.com                                     |
 | car.icu       | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
 | ate.icu       | premium   | $368      | $736          | high           | low    | 3      | namesilo                                     |
 | agone.icu     | available | $2.79     | $26.98        | low            | low    | 5      | namecheap                                    |
-| cut.icu       | resell    | —         | —             | high           | low    | 3      | Dynadot LLC                                  |
 | egg.icu       | premium   | $106.80   | $227.84       | high           | low    | 3      | namesilo                                     |
 | aloud.icu     | available | $1.99     | —             | high           | low    | 5      | name.com                                     |
 | fin.icu       | resell    | —         | —             | medium         | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd |
@@ -81,9 +84,6 @@ print(df.head())
 | live.icu      | resell    | —         | —             | high           | medium | 4      | Porkbun, LLC                                 |
 | fig.icu       | premium   | $34.22    | $69.02        | medium         | low    | 3      | namesilo                                     |
 | attic.icu     | available | $2.79     | $26.98        | low            | low    | 5      | namecheap                                    |
-| guest.icu     | resell    | —         | —             | high           | low    | 5      | Dynadot LLC                                  |
-| him.icu       | premium   | $106.80   | $227.84       | high           | low    | 3      | namesilo                                     |
-| badly.icu     | available | $1.99     | —             | medium         | low    | 5      | name.com                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ICU One-Word Domains*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ICU One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
