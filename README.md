@@ -1,10 +1,10 @@
-# Available .ICU One-Word Domains (30,109)
+# Available .ICU One-Word Domains (32,180)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C109%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C180%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .icu one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **30,109 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,180 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 30,109 domains · **Median ask:** $92.31 · **High-demand under $2,500:** 155
+**Public extract:** 1,000 rows · **Live catalog:** 32,180 domains · **Median ask:** $92.04 · **High-demand under $2,500:** 162
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/icu`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| aleut.icu        | available | $2.79     | $26.98        | high           | low    | 5      | namecheap       |
-| tech.icu         | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc. |
-| aap.icu          | premium   | $384      | $768          | high           | low    | 3      | namesilo        |
-| amble.icu        | available | $3.19     | $19.49        | medium         | low    | 5      | namesilo        |
-| heart.icu        | resell    | —         | —             | high           | low    | 5      | Porkbun LLC     |
-| aut.icu          | premium   | $192      | $384          | high           | low    | 3      | namesilo        |
-| appal.icu        | available | $3.19     | $19.49        | medium         | low    | 5      | namesilo        |
-| format.icu       | resell    | —         | —             | high           | low    | 6      | —               |
-| bai.icu          | premium   | $390      | $780          | high           | low    | 3      | namecheap       |
-| atilt.icu        | available | $2.79     | $26.98        | medium         | low    | 5      | namecheap       |
-| superb.icu       | resell    | —         | —             | high           | low    | 6      | Dynadot Inc     |
-| cbe.icu          | premium   | $192      | $384          | high           | low    | 3      | namesilo        |
-| atole.icu        | available | $3.19     | $19.49        | medium         | low    | 5      | namesilo        |
-| surgery.icu      | resell    | —         | —             | high           | low    | 7      | Porkbun LLC     |
-| ces.icu          | premium   | $192      | $384          | high           | low    | 3      | namesilo        |
-| axile.icu        | available | $2.79     | $26.98        | medium         | low    | 5      | namecheap       |
-| composite.icu    | resell    | —         | —             | high           | low    | 9      | Dynadot Inc     |
-| cvp.icu          | premium   | $192      | $384          | high           | low    | 3      | namesilo        |
-| barmy.icu        | available | $2.79     | $26.98        | medium         | low    | 5      | namecheap       |
-| neurological.icu | resell    | —         | —             | medium         | low    | 12     | —               |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| aleut.icu     | available | $2.79     | $26.98        | high           | low    | 5      | namecheap       |
+| tech.icu      | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc. |
+| aap.icu       | premium   | $384      | $768          | high           | low    | 3      | namesilo        |
+| amble.icu     | available | $3.19     | $19.49        | medium         | low    | 5      | namesilo        |
+| heart.icu     | resell    | —         | —             | high           | low    | 5      | Porkbun LLC     |
+| aut.icu       | premium   | $192      | $384          | high           | low    | 3      | namesilo        |
+| appal.icu     | available | $3.19     | $19.49        | medium         | low    | 5      | namesilo        |
+| format.icu    | resell    | —         | —             | high           | low    | 6      | —               |
+| cbe.icu       | premium   | $192      | $384          | high           | low    | 3      | namesilo        |
+| atilt.icu     | available | $2.79     | $26.98        | medium         | low    | 5      | namecheap       |
+| surgery.icu   | resell    | —         | —             | high           | low    | 7      | Porkbun LLC     |
+| ces.icu       | premium   | $192      | $384          | high           | low    | 3      | namesilo        |
+| barmy.icu     | available | $2.79     | $26.98        | medium         | low    | 5      | namecheap       |
+| composite.icu | resell    | —         | —             | high           | low    | 9      | Dynadot Inc     |
+| cvp.icu       | premium   | $192      | $384          | high           | low    | 3      | namesilo        |
+| basia.icu     | available | $3.19     | $19.49        | medium         | low    | 5      | namesilo        |
+| deo.icu       | premium   | $59.71    | $119.23       | high           | low    | 3      | spaceship       |
+| beamy.icu     | available | $2.79     | $26.98        | medium         | low    | 5      | namecheap       |
+| edm.icu       | premium   | $165      | $330          | high           | low    | 3      | dynadot         |
+| benni.icu     | available | $3.19     | $19.49        | high           | low    | 5      | namesilo        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 30,109 live domains                        |
+| 1,000-row public sample | 32,180 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 155 high-demand names under $2,500         |
+| Basic exported fields   | 162 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ICU One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ICU One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
